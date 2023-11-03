@@ -1,6 +1,6 @@
 # MovieTime
 
-Note: I cannot share the source code of the frontend and backend components of the application as this project was part of the assignments for CS6120 at Northeastern University, Boston.
+Note: I cannot share the source code of the frontend and backend components of the application as this project was part of the assignments for CS5610 at Northeastern University, Boston.
 
 App name: MovieTime
 
